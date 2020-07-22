@@ -1,9 +1,4 @@
 # Portfolio
-Portfolio of Data Science work
-
-Hello!
-
-Portfolio of Data Science work
 
 Hello!
 
